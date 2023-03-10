@@ -1,6 +1,8 @@
 HardDiffusion
 =============
 
+This project has moved to Gitlab: https://gitlab.com/hard-diffusion/HardDiffusionRenderer
+
 Inspired by EasyDiffusion
 
 This works, kinda, expect issues.
